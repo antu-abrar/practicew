@@ -1,0 +1,10 @@
+git clone *url link*
+notun folder open hobe, repo er sob kisu nambe
+
+cd jeiFolderTaNamse
+
+git add temp.html /*corresopnding html file ta*/
+
+git comit temp.html
+
+git push
